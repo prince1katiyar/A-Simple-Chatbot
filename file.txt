@@ -1,5 +1,0 @@
-python 
-java
- c 
- 
- this is good  wat
