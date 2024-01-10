@@ -1,4 +1,0 @@
-python 
-r lan
-c 
-c++
